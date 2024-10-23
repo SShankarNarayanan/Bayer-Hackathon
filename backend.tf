@@ -4,7 +4,7 @@ terraform {
 
     bucket         = "squad1-hackathon-bucket-table"
 
-    key            = "statefile"
+    key            = "admin"
 
     region         = "us-east-1"
 
